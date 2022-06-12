@@ -1,4 +1,4 @@
-# Do-an
+# Music Player App
 - Tên đồ án: Music Player
 - Giảng viên hướng dẫn: Huỳnh Tuấn Anh
 - Thành viên nhóm:
