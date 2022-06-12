@@ -20,11 +20,8 @@
   </a>
   
 # Một số hình ảnh Demo 
-  
 
-![ALBUM](https://user-images.githubusercontent.com/91202778/173234867-cff447ba-668d-4a7b-907e-7f62e394c5f1.png)
-![dangphat](https://user-images.githubusercontent.com/91202778/173234884-1f5b00fe-78da-4c37-8900-b8f1d746355f.png)
-![ds nhạc](https://user-images.githubusercontent.com/91202778/173234927-fa6ce4ba-004f-45f5-9e79-0a172ce8ae59.png)
-![DS](https://user-images.githubusercontent.com/91202778/173234936-40075f8a-c014-4d09-bef5-544d73a8327e.png)
-![theloai](https://user-images.githubusercontent.com/91202778/173234944-c39f21d5-24c7-4251-803c-8016d83e80de.png)
-  </a>
+ </a>
+ 
+# Video Demo
+</a>
