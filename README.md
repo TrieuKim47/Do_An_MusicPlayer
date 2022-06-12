@@ -1,5 +1,5 @@
 # Music Player App
-- Tên đồ án: Music Player
+- Tên đồ án: Ứng dụng Music Player
 - Giảng viên hướng dẫn: Huỳnh Tuấn Anh
 - Thành viên nhóm:
     Lê Thế Phúc                 (20521764),
