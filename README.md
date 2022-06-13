@@ -31,6 +31,6 @@
  </a>
  
 # Video Demo
-[Click Here](https://drive.google.com/drive/folders/1EaBXzXHNXPMC28dQ5bf7gMgM_FRBZ4Tg)
+[Click Here](https://drive.google.com/file/d/192ceNuUqg5GfpvWkyrCABEQGLTrZy4v-/view?usp=sharing)
 </a>
 
