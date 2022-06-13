@@ -16,7 +16,7 @@
   - Nghe nhạc theo thể loại nhạc
   - Thêm hoặc xóa bài hát theo album, ca sĩ, thể loại
   - Tìm kiếm nhạc theo tên, album, ca sĩ, thể loại
-  - Chia sẻ bài hát cho bạn bè qua các nên tảng MXH như: Mesenger, Zalo, gmail, Driver, Bluetooth,...
+  - Chia sẻ bài hát cho bạn bè qua các nên tảng MXH như: Messenger, Zalo, gmail, Driver, Bluetooth,...
   </a>
   
 # Một số hình ảnh Demo 
